@@ -6,7 +6,7 @@
 
 ## 执行频率
 
-- 每周探索新 Skills
+- 每周探索新 Skills（自动：每周一 9:00）
 - 按需分析热门 Skills
 - 持续更新代码示例
 
@@ -15,7 +15,7 @@
 ### 1. 发现新 Skills
 
 ```bash
-clawhub search "<category>" --json
+clawhub search "<category>"
 ```
 
 ### 2. 分析 Skill
@@ -44,14 +44,48 @@ clawhub-lab/
 
 ## 已完成的探索
 
-| 日期 | Skill | 报告 | 代码示例 |
-|------|-------|------|----------|
-| 2026-02-28 | code | [clawhub-skills-guide.md](reports/clawhub-skills-guide.md) | [hello-triangle](code-examples/hello-triangle) |
+| 日期 | Skill | 报告 | 代码示例 | 状态 |
+|------|-------|------|----------|------|
+| 2026-02-28 | code | [clawhub-skills-guide.md](reports/clawhub-skills-guide.md) | [hello-triangle](code-examples/hello-triangle) | ✅ 完成 |
+| 2026-02-28 | github | [github-skill-analysis.md](skills-analysis/github-skill-analysis.md) | - | ⏳ 待安装验证 |
 
 ## 待探索的 Skills
 
-- [ ] github - GitHub 操作
-- [ ] data-analyst - 数据分析
-- [ ] web-pilot - Web 自动化
-- [ ] image-edit - 图像编辑
-- [ ] 3d-cog - 3D 处理
+### 高优先级（评分 > 3.5）
+
+- [x] ~~code~~ - 代码工作流 ✅
+- [ ] github (3.777) - GitHub 操作
+- [ ] openclaw-github-assistant (3.606) - GitHub 助手
+- [ ] antigravity-image-gen (3.567) - AI 图像生成
+- [ ] data-analyst (3.512) - 数据分析
+
+### 中优先级（评分 3.0-3.5）
+
+- [ ] web-pilot (3.411) - Web 自动化
+- [ ] github-mcp (3.442) - GitHub MCP Server
+- [ ] image-edit (3.454) - 图像编辑
+- [ ] 3d-cog (3.331) - 3D 处理
+- [ ] tex-render (3.343) - TeX 渲染
+
+### 低优先级（评分 < 3.0）
+
+- [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎
+- [ ] threejs (0.927) - Three.js 3D
+
+## 已知问题
+
+| 问题 | 状态 | 解决方案 |
+|------|------|----------|
+| ClawHub API 速率限制 | ⚠️ 活跃 | 等待冷却后重试 |
+| 部分 Skill 被标记可疑 | ℹ️ 信息 | 使用 `--force` 安装 |
+| Subagent API 认证失败 | ⚠️ 已知 | 主会话直接执行 |
+
+## 自动化任务
+
+| 任务 ID | 名称 | 时间 | 状态 |
+|---------|------|------|------|
+| d5b907b9 | 每周探索 | 每周一 9:00 | ✅ 已启用 |
+
+---
+
+*最后更新: 2026-02-28 by Glint 🔺*
