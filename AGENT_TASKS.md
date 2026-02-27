@@ -29,7 +29,7 @@ clawhub search "<category>"
 
 - 保存到 `reports/` 目录
 - 代码示例保存到 `code-examples/`
-- 截图保存到 `assets/`
+- 深度分析保存到 `skills-analysis/`
 
 ## 仓库结构
 
@@ -47,15 +47,19 @@ clawhub-lab/
 | 日期 | Skill | 报告 | 代码示例 | 状态 |
 |------|-------|------|----------|------|
 | 2026-02-28 | code | [clawhub-skills-guide.md](reports/clawhub-skills-guide.md) | [hello-triangle](code-examples/hello-triangle) | ✅ 完成 |
-| 2026-02-28 | code + test-runner | [skill-analysis-code-testrunner.md](reports/skill-analysis-code-testrunner.md) | 深度分析报告 | ✅ 完成 |
-| 2026-02-28 | github | [github-skill-analysis.md](skills-analysis/github-skill-analysis.md) | - | ⏳ 待安装验证 |
+| 2026-02-28 | github | [github-skill-analysis.md](skills-analysis/github-skill-analysis.md) | - | ⏳ 概要 |
+| 2026-02-28 | github | [github-skill-deep.md](skills-analysis/github-skill-deep.md) | - | ✅ 深度分析 |
+| 2026-02-28 | coding-agent | [coding-agent-skill-deep.md](skills-analysis/coding-agent-skill-deep.md) | - | ✅ 深度分析 |
+| 2026-02-28 | healthcheck | [healthcheck-skill-deep.md](skills-analysis/healthcheck-skill-deep.md) | - | ✅ 深度分析 |
 
 ## 待探索的 Skills
 
 ### 高优先级（评分 > 3.5）
 
 - [x] ~~code~~ - 代码工作流 ✅
-- [ ] github (3.777) - GitHub 操作
+- [x] ~~github~~ - GitHub 操作 ✅
+- [x] ~~coding-agent~~ - 编码代理 ✅
+- [x] ~~healthcheck~~ - 安全审计 ✅
 - [ ] openclaw-github-assistant (3.606) - GitHub 助手
 - [ ] antigravity-image-gen (3.567) - AI 图像生成
 - [ ] data-analyst (3.512) - 数据分析
@@ -73,11 +77,27 @@ clawhub-lab/
 - [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎
 - [ ] threejs (0.927) - Three.js 3D
 
+## OpenClaw 内置 Skills 列表
+
+系统已安装 54 个 Skills：
+
+| 分类 | Skills |
+|------|--------|
+| 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux |
+| 图像/视频 | openai-image-gen, video-frames, gemini |
+| 音频 | openai-whisper, openai-whisper-api, sherpa-onnx-tts, voice-call |
+| 通信 | discord, slack, imsg, bluebubbles |
+| 笔记/文档 | notion, obsidian, bear-notes, apple-notes |
+| 任务管理 | apple-reminders, things-mac, trello |
+| 系统 | healthcheck, canvas, model-usage, session-logs |
+| 存储 | 1password, himalaya |
+| 其他 | weather, summarize, blogwatcher, gog, goplaces, spotify-player, sonoscli |
+
 ## 已知问题
 
 | 问题 | 状态 | 解决方案 |
 |------|------|----------|
-| ClawHub API 速率限制 | ⚠️ 活跃 | 使用 `clawhub inspect` 替代安装 |
+| ClawHub API 速率限制 | ⚠️ 活跃 | 等待冷却后重试 |
 | 部分 Skill 被标记可疑 | ℹ️ 信息 | 使用 `--force` 安装 |
 | Subagent API 认证失败 | ⚠️ 已知 | 主会话直接执行 |
 
@@ -86,6 +106,10 @@ clawhub-lab/
 | 任务 ID | 名称 | 时间 | 状态 |
 |---------|------|------|------|
 | d5b907b9 | 每周探索 | 每周一 9:00 | ✅ 已启用 |
+
+## 远程仓库
+
+🔗 https://github.com/kongshan001/clawhub-lab
 
 ---
 
