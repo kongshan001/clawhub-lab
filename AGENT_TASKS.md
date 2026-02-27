@@ -47,6 +47,7 @@ clawhub-lab/
 | 日期 | Skill | 报告 | 代码示例 | 状态 |
 |------|-------|------|----------|------|
 | 2026-02-28 | code | [clawhub-skills-guide.md](reports/clawhub-skills-guide.md) | [hello-triangle](code-examples/hello-triangle) | ✅ 完成 |
+| 2026-02-28 | code + test-runner | [skill-analysis-code-testrunner.md](reports/skill-analysis-code-testrunner.md) | 深度分析报告 | ✅ 完成 |
 | 2026-02-28 | github | [github-skill-analysis.md](skills-analysis/github-skill-analysis.md) | - | ⏳ 待安装验证 |
 
 ## 待探索的 Skills
@@ -76,7 +77,7 @@ clawhub-lab/
 
 | 问题 | 状态 | 解决方案 |
 |------|------|----------|
-| ClawHub API 速率限制 | ⚠️ 活跃 | 等待冷却后重试 |
+| ClawHub API 速率限制 | ⚠️ 活跃 | 使用 `clawhub inspect` 替代安装 |
 | 部分 Skill 被标记可疑 | ℹ️ 信息 | 使用 `--force` 安装 |
 | Subagent API 认证失败 | ⚠️ 已知 | 主会话直接执行 |
 
