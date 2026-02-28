@@ -53,6 +53,7 @@ clawhub-lab/
 | 2026-02-28 | gh-issues | [gh-issues-skill-deep.md](skills-analysis/gh-issues-skill-deep.md) | ✅ 深度分析 |
 | 2026-02-28 | mcporter | [mcporter-skill-deep.md](skills-analysis/mcporter-skill-deep.md) | ✅ 深度分析 |
 | 2026-02-28 | skill-creator | [skill-creator-skill-deep.md](skills-analysis/skill-creator-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | canvas | [canvas-skill-deep.md](skills-analysis/canvas-skill-deep.md) | ✅ 深度分析 |
 
 ## 待探索的 Skills
 
@@ -90,7 +91,7 @@ clawhub-lab/
 
 | 分类 | Skills |
 |------|--------|
-| 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux |
+| 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
 | 图像/视频 | openai-image-gen, video-frames, gemini |
 | 音频 | openai-whisper, openai-whisper-api, sherpa-onnx-tts, voice-call |
 | 通信 | discord, slack, imsg, bluebubbles |
