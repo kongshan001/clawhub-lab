@@ -44,13 +44,15 @@ clawhub-lab/
 
 ## 已完成的探索
 
-| 日期 | Skill | 报告 | 代码示例 | 状态 |
-|------|-------|------|----------|------|
-| 2026-02-28 | code | [clawhub-skills-guide.md](reports/clawhub-skills-guide.md) | [hello-triangle](code-examples/hello-triangle) | ✅ 完成 |
-| 2026-02-28 | github | [github-skill-analysis.md](skills-analysis/github-skill-analysis.md) | - | ⏳ 概要 |
-| 2026-02-28 | github | [github-skill-deep.md](skills-analysis/github-skill-deep.md) | - | ✅ 深度分析 |
-| 2026-02-28 | coding-agent | [coding-agent-skill-deep.md](skills-analysis/coding-agent-skill-deep.md) | - | ✅ 深度分析 |
-| 2026-02-28 | healthcheck | [healthcheck-skill-deep.md](skills-analysis/healthcheck-skill-deep.md) | - | ✅ 深度分析 |
+| 日期 | Skill | 报告 | 状态 |
+|------|-------|------|------|
+| 2026-02-28 | code | [skill-analysis-code-testrunner.md](reports/skill-analysis-code-testrunner.md) | ✅ 完整 + 代码示例 |
+| 2026-02-28 | github | [github-skill-deep.md](skills-analysis/github-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | coding-agent | [coding-agent-skill-deep.md](skills-analysis/coding-agent-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | healthcheck | [healthcheck-skill-deep.md](skills-analysis/healthcheck-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | gh-issues | [gh-issues-skill-deep.md](skills-analysis/gh-issues-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | mcporter | [mcporter-skill-deep.md](skills-analysis/mcporter-skill-deep.md) | ✅ 深度分析 |
+| 2026-02-28 | skill-creator | [skill-creator-skill-deep.md](skills-analysis/skill-creator-skill-deep.md) | ✅ 深度分析 |
 
 ## 待探索的 Skills
 
@@ -60,6 +62,11 @@ clawhub-lab/
 - [x] ~~github~~ - GitHub 操作 ✅
 - [x] ~~coding-agent~~ - 编码代理 ✅
 - [x] ~~healthcheck~~ - 安全审计 ✅
+- [x] ~~gh-issues~~ - GitHub Issues 自动修复 ✅
+- [x] ~~mcporter~~ - MCP 工具调用 ✅
+- [x] ~~skill-creator~~ - Skill 创建 ✅
+- [ ] mcp-skill (3.635) - MCP Skill
+- [ ] mcp-hass (3.600) - Home Assistant MCP
 - [ ] openclaw-github-assistant (3.606) - GitHub 助手
 - [ ] antigravity-image-gen (3.567) - AI 图像生成
 - [ ] data-analyst (3.512) - 数据分析
@@ -67,19 +74,19 @@ clawhub-lab/
 ### 中优先级（评分 3.0-3.5）
 
 - [ ] web-pilot (3.411) - Web 自动化
-- [ ] github-mcp (3.442) - GitHub MCP Server
+- [ ] ai-notes-of-video (3.477) - AI 视频笔记
+- [ ] ai-ppt-generate (3.473) - AI PPT 生成
 - [ ] image-edit (3.454) - 图像编辑
 - [ ] 3d-cog (3.331) - 3D 处理
-- [ ] tex-render (3.343) - TeX 渲染
 
 ### 低优先级（评分 < 3.0）
 
 - [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎
 - [ ] threejs (0.927) - Three.js 3D
 
-## OpenClaw 内置 Skills 列表
+## OpenClaw 内置 Skills 清单
 
-系统已安装 54 个 Skills：
+共 **54** 个内置 Skills：
 
 | 分类 | Skills |
 |------|--------|
@@ -99,7 +106,6 @@ clawhub-lab/
 |------|------|----------|
 | ClawHub API 速率限制 | ⚠️ 活跃 | 等待冷却后重试 |
 | 部分 Skill 被标记可疑 | ℹ️ 信息 | 使用 `--force` 安装 |
-| Subagent API 认证失败 | ⚠️ 已知 | 主会话直接执行 |
 
 ## 自动化任务
 
