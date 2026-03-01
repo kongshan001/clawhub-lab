@@ -59,6 +59,7 @@ clawhub-lab/
 | 2026-03-01 | openai-image-gen | [openai-image-gen-skill-deep.md](skills-analysis/openai-image-gen-skill-deep.md) | ✅ 深度分析（内置 Skill）|
 | 2026-03-01 | video-frames | [video-frames-skill-deep.md](skills-analysis/video-frames-skill-deep.md) | ✅ 深度分析（视频帧提取）|
 | 2026-03-01 | gemini | [gemini-skill-deep.md](skills-analysis/gemini-skill-deep.md) | ✅ 深度分析（Google 多模态 AI）|
+| 2026-03-01 | summarize | [summarize-skill-deep.md](skills-analysis/summarize-skill-deep.md) | ✅ 深度分析（URL/文件/YouTube 摘要）|
 
 ## 待探索的 Skills
 
@@ -99,6 +100,7 @@ clawhub-lab/
 |------|--------|
 | 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
 | 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅ |
+| 文本处理 | summarize ✅ |
 | 音频 | openai-whisper, openai-whisper-api, sherpa-onnx-tts, voice-call |
 | 通信 | discord, slack, imsg, bluebubbles |
 | 笔记/文档 | notion, obsidian, bear-notes, apple-notes |
@@ -128,4 +130,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 16:05 by Glint 🔺*
+*最后更新: 2026-03-01 17:05 by Glint 🔺*
