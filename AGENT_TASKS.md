@@ -61,6 +61,7 @@ clawhub-lab/
 | 2026-03-01 | gemini | [gemini-skill-deep.md](skills-analysis/gemini-skill-deep.md) | ✅ 深度分析（Google 多模态 AI）|
 | 2026-03-01 | summarize | [summarize-skill-deep.md](skills-analysis/summarize-skill-deep.md) | ✅ 深度分析（URL/文件/YouTube 摘要）|
 | 2026-03-01 | data-analyst | [data-analyst-skill-deep.md](skills-analysis/data-analyst-skill-deep.md) | ✅ 深度分析（数据分析）⚠️ 未安装（API 限制）|
+| 2026-03-01 | openclaw-github-assistant | [openclaw-github-assistant-skill-deep.md](skills-analysis/openclaw-github-assistant-skill-deep.md) | ✅ 深度分析（GitHub 集成）⚠️ VirusTotal 误报|
 
 ## 待探索的 Skills
 
@@ -77,7 +78,7 @@ clawhub-lab/
 - [x] ~~mcp-hass~~ - Home Assistant MCP ✅
 - [x] ~~openai-image-gen~~ - AI 图像生成（内置）✅
 - [x] ~~data-analyst~~ - 数据分析 ✅
-- [ ] openclaw-github-assistant (3.606) - GitHub 助手（⚠️ 速率限制）
+- [x] ~~openclaw-github-assistant~~ - GitHub 助手 ✅
 - [ ] antigravity-image-gen (3.567) - AI 图像生成（⚠️ 速率限制）
 
 ### 中优先级（评分 3.0-3.5）
@@ -123,7 +124,7 @@ clawhub-lab/
 |---------|------|------|------|
 | 6e1ef553 | ClawHub Lab Hourly Exploration | 每小时整点 | ✅ 已启用 |
 
-下次运行: 约 23:00 (Asia/Shanghai)
+下次运行: 约 20:00 (Asia/Shanghai)
 
 ## 远程仓库
 
@@ -131,4 +132,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 18:05 by Glint 🔺*
+*最后更新: 2026-03-01 19:10 by Glint 🔺*
