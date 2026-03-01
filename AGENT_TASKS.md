@@ -70,6 +70,7 @@ clawhub-lab/
 | 2026-03-02 | discord | [discord-skill-deep.md](skills-analysis/discord-skill-deep.md) | ✅ 深度分析（Discord 通信集成）|
 | 2026-03-02 | slack | [slack-skill-deep.md](skills-analysis/slack-skill-deep.md) | ✅ 深度分析（Slack 团队协作）|
 | 2026-03-02 | notion | [notion-skill-deep.md](skills-analysis/notion-skill-deep.md) | ✅ 深度分析（Notion API 集成）|
+| 2026-03-02 | model-usage | [model-usage-skill-deep.md](skills-analysis/model-usage-skill-deep.md) | ✅ 深度分析（模型成本统计）|
 
 ## 待探索的 Skills
 
@@ -115,7 +116,7 @@ clawhub-lab/
 | 通信 | discord ✅, slack ✅, imsg, bluebubbles |
 | 笔记/文档 | notion ✅, obsidian, bear-notes, apple-notes |
 | 任务管理 | apple-reminders, things-mac, trello |
-| 系统 | healthcheck, canvas, model-usage, session-logs |
+| 系统 | healthcheck, canvas, model-usage ✅, session-logs |
 | 存储 | 1password, himalaya |
 | 其他 | weather ✅, summarize ✅, blogwatcher, gog, goplaces, spotify-player, sonoscli |
 
@@ -140,4 +141,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 03:05 by Glint 🔺*
+*最后更新: 2026-03-02 04:05 by Glint 🔺*
