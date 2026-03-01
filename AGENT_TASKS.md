@@ -64,6 +64,7 @@ clawhub-lab/
 | 2026-03-01 | openclaw-github-assistant | [openclaw-github-assistant-skill-deep.md](skills-analysis/openclaw-github-assistant-skill-deep.md) | ✅ 深度分析（GitHub 集成）⚠️ VirusTotal 误报|
 | 2026-03-01 | web-pilot | [web-pilot-skill-deep.md](skills-analysis/web-pilot-skill-deep.md) | ✅ 深度分析（零 API Key 网页自动化）|
 | 2026-03-01 | tmux | [tmux-skill-deep.md](skills-analysis/tmux-skill-deep.md) | ✅ 深度分析（会话远程控制）|
+| 2026-03-01 | weather | [weather-skill-deep.md](skills-analysis/weather-skill-deep.md) | ✅ 深度分析（天气查询，零 API Key）|
 
 ## 待探索的 Skills
 
@@ -111,7 +112,7 @@ clawhub-lab/
 | 任务管理 | apple-reminders, things-mac, trello |
 | 系统 | healthcheck, canvas, model-usage, session-logs |
 | 存储 | 1password, himalaya |
-| 其他 | weather, summarize, blogwatcher, gog, goplaces, spotify-player, sonoscli |
+| 其他 | weather ✅, summarize ✅, blogwatcher, gog, goplaces, spotify-player, sonoscli |
 
 ## 已知问题
 
