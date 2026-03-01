@@ -73,6 +73,7 @@ clawhub-lab/
 | 2026-03-02 | model-usage | [model-usage-skill-deep.md](skills-analysis/model-usage-skill-deep.md) | ✅ 深度分析（模型成本统计）|
 | 2026-03-02 | image-edit | [image-edit-skill-deep.md](skills-analysis/image-edit-skill-deep.md) | ✅ 深度分析（AI 图像编辑）|
 | 2026-03-02 | apple-reminders | [apple-reminders-skill-deep.md](skills-analysis/apple-reminders-skill-deep.md) | ✅ 深度分析（macOS 任务管理）|
+| 2026-03-02 | ai-ppt-generate | [ai-ppt-generate-skill-deep.md](skills-analysis/ai-ppt-generate-skill-deep.md) | ✅ 深度分析（智能 PPT 生成）|
 
 ## 待探索的 Skills
 
@@ -96,7 +97,7 @@ clawhub-lab/
 
 - [x] ~~web-pilot~~ - Web 自动化 ✅
 - [ ] ai-notes-of-video (3.700) - AI 视频笔记（⚠️ 速率限制）
-- [ ] ai-ppt-generate (3.734) - AI PPT 生成（⚠️ 速率限制）
+- [x] ~~ai-ppt-generate~~ (3.734) - AI PPT 生成 ✅
 - [x] ~~image-edit~~ - 图像编辑 ✅
 - [ ] 3d-cog (3.331) - 3D 处理
 
@@ -143,4 +144,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 05:05 by Glint 🔺*
+*最后更新: 2026-03-02 07:05 by Glint 🔺*
