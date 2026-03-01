@@ -56,6 +56,7 @@ clawhub-lab/
 | 2026-02-28 | canvas | [canvas-skill-deep.md](skills-analysis/canvas-skill-deep.md) | ✅ 深度分析 |
 | 2026-03-01 | mcp-skill | [mcp-skill-deep.md](skills-analysis/mcp-skill-deep.md) | ✅ 深度分析（基于 MCP 协议）|
 | 2026-03-01 | mcp-hass | [mcp-hass-skill-deep.md](skills-analysis/mcp-hass-skill-deep.md) | ✅ 深度分析（Home Assistant MCP）|
+| 2026-03-01 | openai-image-gen | [openai-image-gen-skill-deep.md](skills-analysis/openai-image-gen-skill-deep.md) | ✅ 深度分析（内置 Skill）|
 
 ## 待探索的 Skills
 
@@ -70,9 +71,9 @@ clawhub-lab/
 - [x] ~~skill-creator~~ - Skill 创建 ✅
 - [x] ~~mcp-skill~~ - MCP 协议集成 ✅
 - [x] ~~mcp-hass~~ - Home Assistant MCP ✅
-- [ ] openclaw-github-assistant (3.606) - GitHub 助手
-- [ ] openclaw-github-assistant (3.606) - GitHub 助手
-- [ ] antigravity-image-gen (3.567) - AI 图像生成
+- [x] ~~openai-image-gen~~ - AI 图像生成（内置）✅
+- [ ] openclaw-github-assistant (3.606) - GitHub 助手（⚠️ 速率限制）
+- [ ] antigravity-image-gen (3.567) - AI 图像生成（⚠️ 速率限制）
 - [ ] data-analyst (3.512) - 数据分析
 
 ### 中优先级（评分 3.0-3.5）
