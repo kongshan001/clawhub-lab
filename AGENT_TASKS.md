@@ -66,6 +66,7 @@ clawhub-lab/
 | 2026-03-01 | tmux | [tmux-skill-deep.md](skills-analysis/tmux-skill-deep.md) | ✅ 深度分析（会话远程控制）|
 | 2026-03-01 | weather | [weather-skill-deep.md](skills-analysis/weather-skill-deep.md) | ✅ 深度分析（天气查询，零 API Key）|
 | 2026-03-01 | openai-whisper + openai-whisper-api | [whisper-skills-deep.md](skills-analysis/whisper-skills-deep.md) | ✅ 深度分析（本地/云端语音识别）|
+| 2026-03-02 | sherpa-onnx-tts | [sherpa-onnx-tts-skill-deep.md](skills-analysis/sherpa-onnx-tts-skill-deep.md) | ✅ 深度分析（本地离线 TTS）|
 
 ## 待探索的 Skills
 
@@ -107,7 +108,7 @@ clawhub-lab/
 | 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
 | 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅ |
 | 文本处理 | summarize ✅ |
-| 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts, voice-call |
+| 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call |
 | 通信 | discord, slack, imsg, bluebubbles |
 | 笔记/文档 | notion, obsidian, bear-notes, apple-notes |
 | 任务管理 | apple-reminders, things-mac, trello |
@@ -136,4 +137,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 23:05 by Glint 🔺*
+*最后更新: 2026-03-02 00:05 by Glint 🔺*
