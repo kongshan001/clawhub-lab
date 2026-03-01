@@ -60,6 +60,7 @@ clawhub-lab/
 | 2026-03-01 | video-frames | [video-frames-skill-deep.md](skills-analysis/video-frames-skill-deep.md) | ✅ 深度分析（视频帧提取）|
 | 2026-03-01 | gemini | [gemini-skill-deep.md](skills-analysis/gemini-skill-deep.md) | ✅ 深度分析（Google 多模态 AI）|
 | 2026-03-01 | summarize | [summarize-skill-deep.md](skills-analysis/summarize-skill-deep.md) | ✅ 深度分析（URL/文件/YouTube 摘要）|
+| 2026-03-01 | data-analyst | [data-analyst-skill-deep.md](skills-analysis/data-analyst-skill-deep.md) | ✅ 深度分析（数据分析）⚠️ 未安装（API 限制）|
 
 ## 待探索的 Skills
 
@@ -75,9 +76,9 @@ clawhub-lab/
 - [x] ~~mcp-skill~~ - MCP 协议集成 ✅
 - [x] ~~mcp-hass~~ - Home Assistant MCP ✅
 - [x] ~~openai-image-gen~~ - AI 图像生成（内置）✅
+- [x] ~~data-analyst~~ - 数据分析 ✅
 - [ ] openclaw-github-assistant (3.606) - GitHub 助手（⚠️ 速率限制）
 - [ ] antigravity-image-gen (3.567) - AI 图像生成（⚠️ 速率限制）
-- [ ] data-analyst (3.512) - 数据分析
 
 ### 中优先级（评分 3.0-3.5）
 
@@ -130,4 +131,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 17:05 by Glint 🔺*
+*最后更新: 2026-03-01 18:05 by Glint 🔺*
