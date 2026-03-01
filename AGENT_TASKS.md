@@ -57,6 +57,7 @@ clawhub-lab/
 | 2026-03-01 | mcp-skill | [mcp-skill-deep.md](skills-analysis/mcp-skill-deep.md) | ✅ 深度分析（基于 MCP 协议）|
 | 2026-03-01 | mcp-hass | [mcp-hass-skill-deep.md](skills-analysis/mcp-hass-skill-deep.md) | ✅ 深度分析（Home Assistant MCP）|
 | 2026-03-01 | openai-image-gen | [openai-image-gen-skill-deep.md](skills-analysis/openai-image-gen-skill-deep.md) | ✅ 深度分析（内置 Skill）|
+| 2026-03-01 | video-frames | [video-frames-skill-deep.md](skills-analysis/video-frames-skill-deep.md) | ✅ 深度分析（视频帧提取）|
 
 ## 待探索的 Skills
 
@@ -96,7 +97,7 @@ clawhub-lab/
 | 分类 | Skills |
 |------|--------|
 | 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
-| 图像/视频 | openai-image-gen, video-frames, gemini |
+| 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini |
 | 音频 | openai-whisper, openai-whisper-api, sherpa-onnx-tts, voice-call |
 | 通信 | discord, slack, imsg, bluebubbles |
 | 笔记/文档 | notion, obsidian, bear-notes, apple-notes |
@@ -126,4 +127,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 by Glint 🔺*
+*最后更新: 2026-03-01 15:03 by Glint 🔺*
