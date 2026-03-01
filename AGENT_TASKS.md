@@ -72,6 +72,7 @@ clawhub-lab/
 | 2026-03-02 | notion | [notion-skill-deep.md](skills-analysis/notion-skill-deep.md) | ✅ 深度分析（Notion API 集成）|
 | 2026-03-02 | model-usage | [model-usage-skill-deep.md](skills-analysis/model-usage-skill-deep.md) | ✅ 深度分析（模型成本统计）|
 | 2026-03-02 | image-edit | [image-edit-skill-deep.md](skills-analysis/image-edit-skill-deep.md) | ✅ 深度分析（AI 图像编辑）|
+| 2026-03-02 | apple-reminders | [apple-reminders-skill-deep.md](skills-analysis/apple-reminders-skill-deep.md) | ✅ 深度分析（macOS 任务管理）|
 
 ## 待探索的 Skills
 
@@ -116,7 +117,7 @@ clawhub-lab/
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call |
 | 通信 | discord ✅, slack ✅, imsg, bluebubbles |
 | 笔记/文档 | notion ✅, obsidian, bear-notes, apple-notes |
-| 任务管理 | apple-reminders, things-mac, trello |
+| 任务管理 | apple-reminders ✅, things-mac, trello |
 | 系统 | healthcheck, canvas, model-usage ✅, session-logs |
 | 存储 | 1password, himalaya |
 | 其他 | weather ✅, summarize ✅, blogwatcher, gog, goplaces, spotify-player, sonoscli |
