@@ -62,6 +62,7 @@ clawhub-lab/
 | 2026-03-01 | summarize | [summarize-skill-deep.md](skills-analysis/summarize-skill-deep.md) | ✅ 深度分析（URL/文件/YouTube 摘要）|
 | 2026-03-01 | data-analyst | [data-analyst-skill-deep.md](skills-analysis/data-analyst-skill-deep.md) | ✅ 深度分析（数据分析）⚠️ 未安装（API 限制）|
 | 2026-03-01 | openclaw-github-assistant | [openclaw-github-assistant-skill-deep.md](skills-analysis/openclaw-github-assistant-skill-deep.md) | ✅ 深度分析（GitHub 集成）⚠️ VirusTotal 误报|
+| 2026-03-01 | web-pilot | [web-pilot-skill-deep.md](skills-analysis/web-pilot-skill-deep.md) | ✅ 深度分析（零 API Key 网页自动化）|
 
 ## 待探索的 Skills
 
@@ -83,7 +84,7 @@ clawhub-lab/
 
 ### 中优先级（评分 3.0-3.5）
 
-- [ ] web-pilot (3.411) - Web 自动化
+- [x] ~~web-pilot~~ - Web 自动化 ✅
 - [ ] ai-notes-of-video (3.477) - AI 视频笔记
 - [ ] ai-ppt-generate (3.473) - AI PPT 生成
 - [ ] image-edit (3.454) - 图像编辑
@@ -132,4 +133,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 19:10 by Glint 🔺*
+*最后更新: 2026-03-01 20:05 by Glint 🔺*
