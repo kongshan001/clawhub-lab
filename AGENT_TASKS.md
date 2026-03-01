@@ -71,6 +71,7 @@ clawhub-lab/
 | 2026-03-02 | slack | [slack-skill-deep.md](skills-analysis/slack-skill-deep.md) | ✅ 深度分析（Slack 团队协作）|
 | 2026-03-02 | notion | [notion-skill-deep.md](skills-analysis/notion-skill-deep.md) | ✅ 深度分析（Notion API 集成）|
 | 2026-03-02 | model-usage | [model-usage-skill-deep.md](skills-analysis/model-usage-skill-deep.md) | ✅ 深度分析（模型成本统计）|
+| 2026-03-02 | image-edit | [image-edit-skill-deep.md](skills-analysis/image-edit-skill-deep.md) | ✅ 深度分析（AI 图像编辑）|
 
 ## 待探索的 Skills
 
@@ -93,9 +94,9 @@ clawhub-lab/
 ### 中优先级（评分 3.0-3.5）
 
 - [x] ~~web-pilot~~ - Web 自动化 ✅
-- [ ] ai-notes-of-video (3.477) - AI 视频笔记
-- [ ] ai-ppt-generate (3.473) - AI PPT 生成
-- [ ] image-edit (3.454) - 图像编辑
+- [ ] ai-notes-of-video (3.700) - AI 视频笔记（⚠️ 速率限制）
+- [ ] ai-ppt-generate (3.734) - AI PPT 生成（⚠️ 速率限制）
+- [x] ~~image-edit~~ - 图像编辑 ✅
 - [ ] 3d-cog (3.331) - 3D 处理
 
 ### 低优先级（评分 < 3.0）
@@ -141,4 +142,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 04:05 by Glint 🔺*
+*最后更新: 2026-03-02 05:05 by Glint 🔺*
