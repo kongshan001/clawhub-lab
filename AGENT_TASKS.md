@@ -63,6 +63,7 @@ clawhub-lab/
 | 2026-03-01 | data-analyst | [data-analyst-skill-deep.md](skills-analysis/data-analyst-skill-deep.md) | ✅ 深度分析（数据分析）⚠️ 未安装（API 限制）|
 | 2026-03-01 | openclaw-github-assistant | [openclaw-github-assistant-skill-deep.md](skills-analysis/openclaw-github-assistant-skill-deep.md) | ✅ 深度分析（GitHub 集成）⚠️ VirusTotal 误报|
 | 2026-03-01 | web-pilot | [web-pilot-skill-deep.md](skills-analysis/web-pilot-skill-deep.md) | ✅ 深度分析（零 API Key 网页自动化）|
+| 2026-03-01 | tmux | [tmux-skill-deep.md](skills-analysis/tmux-skill-deep.md) | ✅ 深度分析（会话远程控制）|
 
 ## 待探索的 Skills
 
@@ -133,4 +134,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-01 20:05 by Glint 🔺*
+*最后更新: 2026-03-01 21:02 by Glint 🔺*
