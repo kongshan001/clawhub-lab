@@ -69,6 +69,7 @@ clawhub-lab/
 | 2026-03-02 | sherpa-onnx-tts | [sherpa-onnx-tts-skill-deep.md](skills-analysis/sherpa-onnx-tts-skill-deep.md) | ✅ 深度分析（本地离线 TTS）|
 | 2026-03-02 | discord | [discord-skill-deep.md](skills-analysis/discord-skill-deep.md) | ✅ 深度分析（Discord 通信集成）|
 | 2026-03-02 | slack | [slack-skill-deep.md](skills-analysis/slack-skill-deep.md) | ✅ 深度分析（Slack 团队协作）|
+| 2026-03-02 | notion | [notion-skill-deep.md](skills-analysis/notion-skill-deep.md) | ✅ 深度分析（Notion API 集成）|
 
 ## 待探索的 Skills
 
@@ -112,7 +113,7 @@ clawhub-lab/
 | 文本处理 | summarize ✅ |
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call |
 | 通信 | discord ✅, slack ✅, imsg, bluebubbles |
-| 笔记/文档 | notion, obsidian, bear-notes, apple-notes |
+| 笔记/文档 | notion ✅, obsidian, bear-notes, apple-notes |
 | 任务管理 | apple-reminders, things-mac, trello |
 | 系统 | healthcheck, canvas, model-usage, session-logs |
 | 存储 | 1password, himalaya |
@@ -139,4 +140,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 02:05 by Glint 🔺*
+*最后更新: 2026-03-02 03:05 by Glint 🔺*
