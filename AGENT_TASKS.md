@@ -54,6 +54,7 @@ clawhub-lab/
 | 2026-02-28 | mcporter | [mcporter-skill-deep.md](skills-analysis/mcporter-skill-deep.md) | ✅ 深度分析 |
 | 2026-02-28 | skill-creator | [skill-creator-skill-deep.md](skills-analysis/skill-creator-skill-deep.md) | ✅ 深度分析 |
 | 2026-02-28 | canvas | [canvas-skill-deep.md](skills-analysis/canvas-skill-deep.md) | ✅ 深度分析 |
+| 2026-03-01 | mcp-skill | [mcp-skill-deep.md](skills-analysis/mcp-skill-deep.md) | ✅ 深度分析（基于 MCP 协议）|
 
 ## 待探索的 Skills
 
@@ -66,7 +67,7 @@ clawhub-lab/
 - [x] ~~gh-issues~~ - GitHub Issues 自动修复 ✅
 - [x] ~~mcporter~~ - MCP 工具调用 ✅
 - [x] ~~skill-creator~~ - Skill 创建 ✅
-- [ ] mcp-skill (3.635) - MCP Skill
+- [x] ~~mcp-skill~~ - MCP 协议集成 ✅
 - [ ] mcp-hass (3.600) - Home Assistant MCP
 - [ ] openclaw-github-assistant (3.606) - GitHub 助手
 - [ ] antigravity-image-gen (3.567) - AI 图像生成
