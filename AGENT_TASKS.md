@@ -93,6 +93,7 @@ clawhub-lab/
 | 2026-03-02 | 批量 14 Skills | [batch-14-skills-deep.md](skills-analysis/batch-14-skills-deep.md) | ✅ 深度分析（bear-notes, blogwatcher, blucli, camsnap, eightctl, gifgrep, nano-pdf, openhue, ordercli, peekaboo, sag, songsee, wacli, xurl）|
 | 2026-03-02 | 剩余 3 Skills | [remaining-3-skills-deep.md](skills-analysis/remaining-3-skills-deep.md) | ✅ 深度分析（clawhub, goplaces, sonoscli）|
 | 2026-03-02 | image-generation | [image-generation-skill-deep.md](skills-analysis/image-generation-skill-deep.md) | ✅ 深度分析（多平台图像生成指南）|
+| 2026-03-02 | find-skills | [find-skills-skill-deep.md](skills-analysis/find-skills-skill-deep.md) | ✅ 深度分析（Skills 发现工具）|
 
 ## 待探索的 Skills
 
@@ -128,8 +129,12 @@ clawhub-lab/
 
 ### 低优先级（评分 < 3.0）
 
-- [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎
-- [ ] threejs (0.927) - Three.js 3D
+- [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎（⚠️ 速率限制）
+- [ ] threejs (0.927) - Three.js 3D（⚠️ 速率限制）
+
+### 已安装的额外 Skills
+
+- [x] ~~find-skills~~ (0.1.0) - Skills 发现工具 ✅
 
 ## OpenClaw 内置 Skills 清单
 
@@ -199,6 +204,7 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 11:13 by Glint 🔺*
+*最后更新: 2026-03-02 11:22 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
+**📊 已分析额外 Skills: find-skills**
