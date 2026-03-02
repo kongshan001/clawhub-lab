@@ -204,7 +204,8 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 11:22 by Glint 🔺*
+*最后更新: 2026-03-02 11:32 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
-**📊 已分析额外 Skills: find-skills**
+**📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation**
+**⚠️ ClawHub API 速率限制中，待恢复后继续探索**
