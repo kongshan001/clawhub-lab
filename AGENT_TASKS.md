@@ -87,6 +87,7 @@ clawhub-lab/
 | 2026-03-02 | spotify-player | [spotify-player-skill-deep.md](skills-analysis/spotify-player-skill-deep.md) | ✅ 深度分析（Spotify 终端控制）|
 | 2026-03-02 | himalaya | [himalaya-skill-deep.md](skills-analysis/himalaya-skill-deep.md) | ✅ 深度分析（邮件 CLI 客户端）|
 | 2026-03-02 | apple-notes | [apple-notes-skill-deep.md](skills-analysis/apple-notes-skill-deep.md) | ✅ 深度分析（Apple Notes CLI）|
+| 2026-03-02 | nano-banana-pro | [nano-banana-pro-skill-deep.md](skills-analysis/nano-banana-pro-skill-deep.md) | ✅ 深度分析（Gemini 3 Pro Image）|
 
 ## 待探索的 Skills
 
@@ -126,7 +127,7 @@ clawhub-lab/
 | 分类 | Skills |
 |------|--------|
 | 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
-| 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅ |
+| 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅, nano-banana-pro ✅ |
 | 文本处理 | summarize ✅ |
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call ✅ |
 | 通信 | discord ✅, slack ✅, imsg ✅, bluebubbles ✅ |
@@ -157,4 +158,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 10:05 by Glint 🔺*
+*最后更新: 2026-03-02 10:15 by Glint 🔺*
