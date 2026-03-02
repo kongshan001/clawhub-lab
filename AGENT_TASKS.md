@@ -119,6 +119,11 @@ clawhub-lab/
 - [x] ~~image-edit~~ - 图像编辑 ✅
 - [x] ~~3d-cog~~ (3.476) - 3D 模型生成 ✅（CellCog 平台）
 
+### 新发现的高评分 Skills（待探索）
+
+- [ ] ai-web-automation (3.614) - AI Web 自动化（⚠️ 速率限制待安装）
+- [ ] ai-automation-workflows (3.579) - AI 自动化工作流（⚠️ 速率限制待安装）
+
 ### 低优先级（评分 < 3.0）
 
 - [ ] openclaw-godot-skill (0.905) - Godot 游戏引擎
@@ -192,6 +197,6 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 10:55 by Glint 🔺*
+*最后更新: 2026-03-02 11:03 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
