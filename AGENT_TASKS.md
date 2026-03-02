@@ -94,6 +94,7 @@ clawhub-lab/
 | 2026-03-02 | 剩余 3 Skills | [remaining-3-skills-deep.md](skills-analysis/remaining-3-skills-deep.md) | ✅ 深度分析（clawhub, goplaces, sonoscli）|
 | 2026-03-02 | image-generation | [image-generation-skill-deep.md](skills-analysis/image-generation-skill-deep.md) | ✅ 深度分析（多平台图像生成指南）|
 | 2026-03-02 | find-skills | [find-skills-skill-deep.md](skills-analysis/find-skills-skill-deep.md) | ✅ 深度分析（Skills 发现工具）|
+| 2026-03-02 | automation-workflows | [automation-workflows-skill-deep.md](skills-analysis/automation-workflows-skill-deep.md) | ✅ 深度分析（自动化工作流）⚠️ API 限制|
 
 ## 待探索的 Skills
 
@@ -204,7 +205,7 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 12:02 by Glint 🔺*
+*最后更新: 2026-03-02 12:13 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
 **📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation**
@@ -223,7 +224,7 @@ clawhub-lab/
 
 通过 `clawhub search "automation"` 发现：
 
-- [ ] automation-workflows (3.692) - 自动化工作流 ⚠️ 最高优先级
+- [x] ~~automation-workflows~~ (3.692) - 自动化工作流 ✅ 部分分析（API 限制）
 - [ ] automation-workflows-0-1-0 (3.563) - 自动化工作流 0.1.0
 - [ ] windows-ui-automation (3.531) - Windows UI 自动化
 - [ ] x-post-automation (3.523) - X/Twitter 发帖自动化
@@ -246,3 +247,6 @@ clawhub-lab/
 | 2026-03-02 12:02 | 尝试安装 automation-workflows | ❌ API 速率限制 |
 | 2026-03-02 12:02 | 创建状态报告 | ✅ exploration-status-2026-03-02-12-02.md |
 | 2026-03-02 12:02 | Git push | ✅ 所有 commits 已同步 |
+| 2026-03-02 12:13 | 搜索 automation Skills | ✅ API 恢复，发现 5 个 Skills |
+| 2026-03-02 12:13 | 尝试安装 automation-workflows | ❌ API 再次速率限制 |
+| 2026-03-02 12:13 | 创建分析报告 | ✅ automation-workflows-skill-deep.md（部分分析）|
