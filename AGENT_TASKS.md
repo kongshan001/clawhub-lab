@@ -82,6 +82,7 @@ clawhub-lab/
 | 2026-03-02 | imsg | [imsg-skill-deep.md](skills-analysis/imsg-skill-deep.md) | ✅ 深度分析（iMessage/SMS macOS）|
 | 2026-03-02 | antigravity-image-gen | [antigravity-image-gen-skill-deep.md](skills-analysis/antigravity-image-gen-skill-deep.md) | ✅ 深度分析（零成本 AI 图像生成）⚠️ 源码分析|
 | 2026-03-02 | 3d-cog | [3d-cog-skill-deep.md](skills-analysis/3d-cog-skill-deep.md) | ✅ 深度分析（CellCog 3D 模型生成）⚠️ API 限制|
+| 2026-03-02 | bluebubbles | [bluebubbles-skill-deep.md](skills-analysis/bluebubbles-skill-deep.md) | ✅ 深度分析（iMessage 集成）|
 
 ## 待探索的 Skills
 
@@ -124,7 +125,7 @@ clawhub-lab/
 | 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅ |
 | 文本处理 | summarize ✅ |
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call ✅ |
-| 通信 | discord ✅, slack ✅, imsg ✅, bluebubbles |
+| 通信 | discord ✅, slack ✅, imsg ✅, bluebubbles ✅ |
 | 笔记/文档 | notion ✅, obsidian ✅, bear-notes, apple-notes |
 | 任务管理 | apple-reminders ✅, things-mac ✅, trello ✅ |
 | 系统 | healthcheck, canvas, model-usage ✅, session-logs ✅ |
@@ -152,4 +153,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 09:33 by Glint 🔺*
+*最后更新: 2026-03-02 09:42 by Glint 🔺*
