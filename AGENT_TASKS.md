@@ -98,6 +98,7 @@ clawhub-lab/
 | 2026-03-02 | secure-api-calls | [secure-api-calls-skill-deep.md](skills-analysis/secure-api-calls-skill-deep.md) | ✅ 深度分析（Keychains 凭证代理）|
 | 2026-03-02 | security-auditor | [security-auditor-skill-deep.md](skills-analysis/security-auditor-skill-deep.md) | ✅ 深度分析（OWASP Top 10 安全审计）|
 | 2026-03-02 | database-operations | [database-operations-skill-deep.md](skills-analysis/database-operations-skill-deep.md) | ✅ 深度分析（PostgreSQL 数据库专家）|
+| 2026-03-02 | imap-smtp-email | [imap-smtp-email-skill-deep.md](skills-analysis/imap-smtp-email-skill-deep.md) | ✅ 深度分析（IMAP/SMTP 邮件客户端）⭐ 最高评分 3.847 |
 
 ## 待探索的 Skills
 
@@ -140,6 +141,7 @@ clawhub-lab/
 
 - [x] ~~find-skills~~ (0.1.0) - Skills 发现工具 ✅
 - [x] ~~security-auditor~~ (1.0.0) - OWASP Top 10 安全审计 ✅
+- [x] ~~imap-smtp-email~~ (3.847) - IMAP/SMTP 邮件客户端 ⭐ **最高评分** ✅
 
 ## OpenClaw 内置 Skills 清单
 
@@ -209,11 +211,11 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 21:32 by Glint 🔺*
+*最后更新: 2026-03-02 22:04 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
-**📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation, secure-api-calls, security-auditor, database-operations**
-**⚠️ API 持续速率限制（12+ 小时）- 待安装: security-audit-toolkit (3.732), ai-notes-of-video (3.702), web-deploy-github (3.736), ai-web-automation (3.672), productivity (3.559), monitoring (3.537), pdf (3.657), imap-smtp-email (3.610), email-daily-summary (3.557)**
+**📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation, secure-api-calls, security-auditor, database-operations, imap-smtp-email ⭐ (3.847 最高评分)**
+**⚠️ API 持续速率限制 - 待安装: ai-web-automation (3.724), email-daily-summary (3.738), ai-notes-of-video (3.703), nano-pdf (3.693), web-deploy-github (3.676), productivity (3.560)**
 **📝 最新报告: pdf-video-email-skills-discovery.md（30 个 PDF/Video/Email Skills 发现）**
 **📝 状态报告: exploration-status-2026-03-02-21-02.md**
 **💡 建议: 等待 4+ 小时冷却后再尝试安装**
@@ -258,19 +260,21 @@ clawhub-lab/
 - [ ] data-automation-service (3.357) - 数据自动化服务
 - [ ] afrexai-automation-strategy (3.334) - 业务自动化策略
 
-### 新发现的高评分 Skills（2026-03-02 20:32 最新）
+### 新发现的高评分 Skills（2026-03-02 22:04 最新）
 
 通过最新搜索发现：
 
-- [ ] ai-notes-of-video (3.739) - AI 视频笔记 ⭐ 最高评分 ⚠️ 待安装
-- [ ] web-deploy-github (3.736) - GitHub Pages 部署 ⚠️ VirusTotal 警告 + API 限制
-- [ ] security-audit-toolkit (3.698) - 安全审计工具包 ⭐ 新发现 ⚠️ 待安装
-- [ ] security-audit (3.686) - 安全审计 ⭐ 新发现 ⚠️ 待安装
-- [ ] ai-web-automation (3.672) - AI Web 自动化 ⭐ 新发现 ⚠️ 待安装
+- [x] ~~imap-smtp-email~~ (3.847) - IMAP/SMTP 邮件客户端 ⭐ **当前最高评分** ✅ 已安装并分析
+- [ ] ai-web-automation (3.724) - AI Web 自动化 ⚠️ VirusTotal 警告 + API 限制
+- [ ] email-daily-summary (3.738) - 邮件日报摘要 ⚠️ VirusTotal 警告 + API 限制
+- [ ] ai-notes-of-video (3.703) - AI 视频笔记 ⚠️ 待安装
+- [ ] nano-pdf (3.693) - 自然语言 PDF 编辑 ⚠️ 待安装
+- [ ] web-deploy-github (3.676) - GitHub Pages 部署 ⚠️ VirusTotal 警告 + API 限制
+- [ ] pdf (3.657) - PDF 处理 ⚠️ 待安装
 - [ ] web-deploy (3.643) - Web 部署 ⚠️ 待安装
-- [ ] sona-security-audit (3.560) - Sona 安全审计 ⭐ 新发现 ⚠️ 待安装
-- [ ] productivity (3.559) - 生产力工具集 ⚠️ 待安装
-- [ ] openclaw-security-audit (3.552) - OpenClaw 安全审计 ⭐ 新发现 ⚠️ 待安装
+- [ ] productivity (3.560) - 生产力工具集 ⚠️ 待安装
+- [ ] pdf-extract (3.556) - PDF 提取 ⚠️ 待安装
+- [ ] pdf-text-extractor (3.540) - PDF 文本提取 ⚠️ 待安装
 - [ ] monitoring (3.537) - 系统监控 ⚠️ 待安装
 - [x] ~~database-operations~~ (3.508) - 数据库操作 ✅ 已安装并分析
 
@@ -355,3 +359,7 @@ clawhub-lab/
 | 2026-03-02 21:32 | 搜索 pdf/video/email Skills | ✅ 发现 30 个高评分 Skills |
 | 2026-03-02 21:32 | 尝试安装 pdf/imap-smtp-email/email-daily-summary | ❌ API 速率限制 |
 | 2026-03-02 21:32 | 创建发现报告 | ✅ pdf-video-email-skills-discovery.md（30 个 Skills）|
+| 2026-03-02 22:04 | 搜索 email/web-deploy/ai-web-automation/productivity | ✅ 发现 imap-smtp-email (3.847) 最高评分 |
+| 2026-03-02 22:04 | 安装 imap-smtp-email (3.847) | ✅ 成功安装 |
+| 2026-03-02 22:04 | 创建深度分析报告 | ✅ imap-smtp-email-skill-deep.md（IMAP/SMTP 邮件客户端）|
+| 2026-03-02 22:04 | 尝试安装 email-daily-summary/ai-web-automation | ❌ VirusTotal 警告 + API 速率限制 |
