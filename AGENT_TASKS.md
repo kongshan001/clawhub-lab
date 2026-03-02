@@ -95,6 +95,7 @@ clawhub-lab/
 | 2026-03-02 | image-generation | [image-generation-skill-deep.md](skills-analysis/image-generation-skill-deep.md) | ✅ 深度分析（多平台图像生成指南）|
 | 2026-03-02 | find-skills | [find-skills-skill-deep.md](skills-analysis/find-skills-skill-deep.md) | ✅ 深度分析（Skills 发现工具）|
 | 2026-03-02 | automation-workflows | [automation-workflows-skill-deep.md](skills-analysis/automation-workflows-skill-deep.md) | ✅ 深度分析（自动化工作流）⚠️ API 限制|
+| 2026-03-02 | secure-api-calls | [secure-api-calls-skill-deep.md](skills-analysis/secure-api-calls-skill-deep.md) | ✅ 深度分析（Keychains 凭证代理）|
 
 ## 待探索的 Skills
 
@@ -205,13 +206,12 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 12:13 by Glint 🔺*
+*最后更新: 2026-03-02 13:02 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
-**📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation**
-**⚠️ ClawHub API 速率限制中，待恢复后继续探索**
-**📝 最新状态报告: exploration-status-2026-03-02-12-02.md**
-**🔍 新发现 10 个 automation 相关 Skills（评分 3.3-3.7）**
+**📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation, secure-api-calls**
+**✅ API 速率限制已恢复，成功安装 secure-api-calls**
+**📝 最新分析: secure-api-calls-skill-deep.md（Keychains 凭证代理）**
 
 ### 待探索的新 Skills（发现于 2026-03-02 11:42）
 
@@ -250,6 +250,12 @@ clawhub-lab/
 | 2026-03-02 12:13 | 搜索 automation Skills | ✅ API 恢复，发现 5 个 Skills |
 | 2026-03-02 12:13 | 尝试安装 automation-workflows | ❌ API 再次速率限制 |
 | 2026-03-02 12:13 | 创建分析报告 | ✅ automation-workflows-skill-deep.md（部分分析）|
+| 2026-03-02 12:33 | 搜索 automation/database/api/web Skills | ✅ 发现 25+ 相关 Skills |
+| 2026-03-02 12:33 | 尝试安装多个 Skills | ❌ API 速率限制 |
+| 2026-03-02 12:33 | 创建状态报告 | ✅ exploration-status-2026-03-02-12-33.md |
+| 2026-03-02 13:02 | 搜索 security/monitoring/api Skills | ✅ 发现 security-auditor, monitoring, secure-api-calls |
+| 2026-03-02 13:02 | 安装 secure-api-calls | ✅ 成功安装（VirusTotal 警告，--force）|
+| 2026-03-02 13:02 | 创建分析报告 | ✅ secure-api-calls-skill-deep.md（Keychains 凭证代理）|
 | 2026-03-02 12:33 | 搜索 automation/database/api/web Skills | ✅ 发现 25+ 相关 Skills |
 | 2026-03-02 12:33 | 尝试安装多个 Skills | ❌ API 速率限制 |
 | 2026-03-02 12:33 | 创建状态报告 | ✅ exploration-status-2026-03-02-12-33.md |
