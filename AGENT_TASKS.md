@@ -75,6 +75,10 @@ clawhub-lab/
 | 2026-03-02 | apple-reminders | [apple-reminders-skill-deep.md](skills-analysis/apple-reminders-skill-deep.md) | ✅ 深度分析（macOS 任务管理）|
 | 2026-03-02 | ai-ppt-generate | [ai-ppt-generate-skill-deep.md](skills-analysis/ai-ppt-generate-skill-deep.md) | ✅ 深度分析（智能 PPT 生成）|
 | 2026-03-02 | obsidian | [obsidian-skill-deep.md](skills-analysis/obsidian-skill-deep.md) | ✅ 深度分析（知识库自动化）|
+| 2026-03-02 | voice-call | [voice-call-skill-deep.md](skills-analysis/voice-call-skill-deep.md) | ✅ 深度分析（语音通话集成）|
+| 2026-03-02 | session-logs | [session-logs-skill-deep.md](skills-analysis/session-logs-skill-deep.md) | ✅ 深度分析（会话日志分析）|
+| 2026-03-02 | things-mac | [things-mac-skill-deep.md](skills-analysis/things-mac-skill-deep.md) | ✅ 深度分析（Things 3 任务管理）|
+| 2026-03-02 | trello | [trello-skill-deep.md](skills-analysis/trello-skill-deep.md) | ✅ 深度分析（Trello 看板管理）|
 
 ## 待探索的 Skills
 
@@ -116,11 +120,11 @@ clawhub-lab/
 | 开发工具 | code, github, coding-agent, gh-issues, mcporter, skill-creator, tmux, canvas ✅ |
 | 图像/视频 | openai-image-gen ✅, video-frames ✅, gemini ✅ |
 | 文本处理 | summarize ✅ |
-| 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call |
+| 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call ✅ |
 | 通信 | discord ✅, slack ✅, imsg, bluebubbles |
 | 笔记/文档 | notion ✅, obsidian ✅, bear-notes, apple-notes |
-| 任务管理 | apple-reminders ✅, things-mac, trello |
-| 系统 | healthcheck, canvas, model-usage ✅, session-logs |
+| 任务管理 | apple-reminders ✅, things-mac ✅, trello ✅ |
+| 系统 | healthcheck, canvas, model-usage ✅, session-logs ✅ |
 | 存储 | 1password, himalaya |
 | 其他 | weather ✅, summarize ✅, blogwatcher, gog, goplaces, spotify-player, sonoscli |
 
@@ -145,4 +149,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 08:05 by Glint 🔺*
+*最后更新: 2026-03-02 09:05 by Glint 🔺*
