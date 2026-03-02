@@ -86,6 +86,7 @@ clawhub-lab/
 | 2026-03-02 | 1password | [1password-skill-deep.md](skills-analysis/1password-skill-deep.md) | ✅ 深度分析（密码管理器 CLI）|
 | 2026-03-02 | spotify-player | [spotify-player-skill-deep.md](skills-analysis/spotify-player-skill-deep.md) | ✅ 深度分析（Spotify 终端控制）|
 | 2026-03-02 | himalaya | [himalaya-skill-deep.md](skills-analysis/himalaya-skill-deep.md) | ✅ 深度分析（邮件 CLI 客户端）|
+| 2026-03-02 | apple-notes | [apple-notes-skill-deep.md](skills-analysis/apple-notes-skill-deep.md) | ✅ 深度分析（Apple Notes CLI）|
 
 ## 待探索的 Skills
 
@@ -129,7 +130,7 @@ clawhub-lab/
 | 文本处理 | summarize ✅ |
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call ✅ |
 | 通信 | discord ✅, slack ✅, imsg ✅, bluebubbles ✅ |
-| 笔记/文档 | notion ✅, obsidian ✅, bear-notes, apple-notes |
+| 笔记/文档 | notion ✅, obsidian ✅, bear-notes, apple-notes ✅ |
 | 任务管理 | apple-reminders ✅, things-mac ✅, trello ✅ |
 | 系统 | healthcheck, canvas, model-usage ✅, session-logs ✅ |
 | 存储 | 1password ✅, himalaya ✅ |
@@ -156,4 +157,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 09:52 by Glint 🔺*
+*最后更新: 2026-03-02 10:05 by Glint 🔺*
