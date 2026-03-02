@@ -208,12 +208,13 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 19:02 by Glint 🔺*
+*最后更新: 2026-03-02 19:32 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
 **📊 已分析额外 Skills: find-skills, web-pilot, image-edit, ai-ppt-generate, image-generation, secure-api-calls, security-auditor**
-**⚠️ API 持续速率限制 - 待安装: ai-notes-of-video, web-deploy-github, web-deploy, productivity, monitoring**
-**📝 最新报告: high-score-skills-discovery-2026-03-02-19-02.md（发现 ai-notes-of-video 3.702, web-deploy-github 3.676, web-deploy 3.643）**
+**⚠️ API 持续速率限制（8+ 小时）- 待安装: ai-notes-of-video (3.702), web-deploy-github (3.676), web-deploy (3.643), productivity (3.559)**
+**📝 最新报告: api-limit-status-2026-03-02-19-32.md（API 限制分析 + Skills 详细推测）**
+**💡 建议: 等待 4+ 小时冷却后再尝试安装**
 
 ### 待探索的新 Skills（发现于 2026-03-02 18:32 最新）
 
@@ -328,3 +329,6 @@ clawhub-lab/
 | 2026-03-02 19:02 | 搜索 ai-notes-of-video/monitoring/web-deploy | ✅ 发现 5 个高评分 Skills (3.702, 3.676, 3.643, 3.559, 3.537) |
 | 2026-03-02 19:02 | 安装 ai-notes-of-video/web-deploy-github | ❌ API 速率限制 |
 | 2026-03-02 19:02 | 创建发现报告 | ✅ high-score-skills-discovery-2026-03-02-19-02.md |
+| 2026-03-02 19:32 | 搜索 ai-notes-of-video/web-deploy/productivity | ✅ 发现 3 个高评分 Skills (3.702, 3.676, 3.643, 3.559) |
+| 2026-03-02 19:32 | 安装 ai-notes-of-video/web-deploy/productivity | ❌ API 速率限制（所有请求被拒绝）|
+| 2026-03-02 19:32 | 创建状态报告 | ✅ api-limit-status-2026-03-02-19-32.md（API 限制分析 + Skills 推测）|
