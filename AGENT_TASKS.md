@@ -298,3 +298,6 @@ clawhub-lab/
 | 2026-03-02 16:32 | 搜索 database | ✅ 发现 database-operations (3.508) 等 10 个 Skills |
 | 2026-03-02 16:32 | 安装 database-operations | ❌ API 速率限制 |
 | 2026-03-02 16:32 | 创建状态报告 | ✅ exploration-status-2026-03-02-16-32.md |
+| 2026-03-02 17:02 | 搜索 monitoring | ❌ API 速率限制 |
+| 2026-03-02 17:02 | 安装 monitoring | ❌ API 速率限制 |
+| 2026-03-02 17:02 | 创建状态报告 | ✅ exploration-status-2026-03-02-17-02.md |
