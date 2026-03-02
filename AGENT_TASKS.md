@@ -74,6 +74,7 @@ clawhub-lab/
 | 2026-03-02 | image-edit | [image-edit-skill-deep.md](skills-analysis/image-edit-skill-deep.md) | ✅ 深度分析（AI 图像编辑）|
 | 2026-03-02 | apple-reminders | [apple-reminders-skill-deep.md](skills-analysis/apple-reminders-skill-deep.md) | ✅ 深度分析（macOS 任务管理）|
 | 2026-03-02 | ai-ppt-generate | [ai-ppt-generate-skill-deep.md](skills-analysis/ai-ppt-generate-skill-deep.md) | ✅ 深度分析（智能 PPT 生成）|
+| 2026-03-02 | obsidian | [obsidian-skill-deep.md](skills-analysis/obsidian-skill-deep.md) | ✅ 深度分析（知识库自动化）|
 
 ## 待探索的 Skills
 
@@ -117,7 +118,7 @@ clawhub-lab/
 | 文本处理 | summarize ✅ |
 | 音频 | openai-whisper ✅, openai-whisper-api ✅, sherpa-onnx-tts ✅, voice-call |
 | 通信 | discord ✅, slack ✅, imsg, bluebubbles |
-| 笔记/文档 | notion ✅, obsidian, bear-notes, apple-notes |
+| 笔记/文档 | notion ✅, obsidian ✅, bear-notes, apple-notes |
 | 任务管理 | apple-reminders ✅, things-mac, trello |
 | 系统 | healthcheck, canvas, model-usage ✅, session-logs |
 | 存储 | 1password, himalaya |
@@ -144,4 +145,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 07:05 by Glint 🔺*
+*最后更新: 2026-03-02 08:05 by Glint 🔺*
