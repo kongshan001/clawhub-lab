@@ -81,6 +81,7 @@ clawhub-lab/
 | 2026-03-02 | trello | [trello-skill-deep.md](skills-analysis/trello-skill-deep.md) | ✅ 深度分析（Trello 看板管理）|
 | 2026-03-02 | imsg | [imsg-skill-deep.md](skills-analysis/imsg-skill-deep.md) | ✅ 深度分析（iMessage/SMS macOS）|
 | 2026-03-02 | antigravity-image-gen | [antigravity-image-gen-skill-deep.md](skills-analysis/antigravity-image-gen-skill-deep.md) | ✅ 深度分析（零成本 AI 图像生成）⚠️ 源码分析|
+| 2026-03-02 | 3d-cog | [3d-cog-skill-deep.md](skills-analysis/3d-cog-skill-deep.md) | ✅ 深度分析（CellCog 3D 模型生成）⚠️ API 限制|
 
 ## 待探索的 Skills
 
@@ -106,7 +107,7 @@ clawhub-lab/
 - [ ] ai-notes-of-video (3.700) - AI 视频笔记（⚠️ 速率限制）
 - [x] ~~ai-ppt-generate~~ (3.734) - AI PPT 生成 ✅
 - [x] ~~image-edit~~ - 图像编辑 ✅
-- [ ] 3d-cog (3.331) - 3D 处理
+- [x] ~~3d-cog~~ (3.476) - 3D 模型生成 ✅（CellCog 平台）
 
 ### 低优先级（评分 < 3.0）
 
@@ -151,4 +152,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 09:22 by Glint 🔺*
+*最后更新: 2026-03-02 09:33 by Glint 🔺*
