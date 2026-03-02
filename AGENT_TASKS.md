@@ -89,6 +89,7 @@ clawhub-lab/
 | 2026-03-02 | apple-notes | [apple-notes-skill-deep.md](skills-analysis/apple-notes-skill-deep.md) | ✅ 深度分析（Apple Notes CLI）|
 | 2026-03-02 | nano-banana-pro | [nano-banana-pro-skill-deep.md](skills-analysis/nano-banana-pro-skill-deep.md) | ✅ 深度分析（Gemini 3 Pro Image）|
 | 2026-03-02 | oracle | [oracle-skill-deep.md](skills-analysis/oracle-skill-deep.md) | ✅ 深度分析（代码上下文打包）|
+| 2026-03-02 | gog | [gog-skill-deep.md](skills-analysis/gog-skill-deep.md) | ✅ 深度分析（Google Workspace CLI）|
 
 ## 待探索的 Skills
 
@@ -145,6 +146,26 @@ clawhub-lab/
 | ClawHub API 速率限制 | ⚠️ 活跃 | 等待冷却后重试 |
 | 部分 Skill 被标记可疑 | ℹ️ 信息 | 使用 `--force` 安装 |
 
+## 内置 Skills 分析进度
+
+已完成：**42/54** (77.8%)
+
+待分析：
+- bear-notes
+- blogwatcher
+- blucli
+- camsnap
+- eightctl
+- gifgrep
+- nano-pdf
+- openhue
+- ordercli
+- peekaboo
+- sag
+- songsee
+- wacli
+- xurl
+
 ## 自动化任务
 
 | 任务 ID | 名称 | 时间 | 状态 |
@@ -159,4 +180,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 10:22 by Glint 🔺*
+*最后更新: 2026-03-02 10:32 by Glint 🔺*
