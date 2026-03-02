@@ -88,6 +88,7 @@ clawhub-lab/
 | 2026-03-02 | himalaya | [himalaya-skill-deep.md](skills-analysis/himalaya-skill-deep.md) | ✅ 深度分析（邮件 CLI 客户端）|
 | 2026-03-02 | apple-notes | [apple-notes-skill-deep.md](skills-analysis/apple-notes-skill-deep.md) | ✅ 深度分析（Apple Notes CLI）|
 | 2026-03-02 | nano-banana-pro | [nano-banana-pro-skill-deep.md](skills-analysis/nano-banana-pro-skill-deep.md) | ✅ 深度分析（Gemini 3 Pro Image）|
+| 2026-03-02 | oracle | [oracle-skill-deep.md](skills-analysis/oracle-skill-deep.md) | ✅ 深度分析（代码上下文打包）|
 
 ## 待探索的 Skills
 
@@ -135,7 +136,7 @@ clawhub-lab/
 | 任务管理 | apple-reminders ✅, things-mac ✅, trello ✅ |
 | 系统 | healthcheck, canvas, model-usage ✅, session-logs ✅ |
 | 存储 | 1password ✅, himalaya ✅ |
-| 其他 | weather ✅, summarize ✅, blogwatcher, gog, goplaces, spotify-player ✅, sonoscli |
+| 其他 | weather ✅, summarize ✅, oracle ✅, blogwatcher, gog, goplaces, spotify-player ✅, sonoscli |
 
 ## 已知问题
 
@@ -158,4 +159,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 10:15 by Glint 🔺*
+*最后更新: 2026-03-02 10:22 by Glint 🔺*
