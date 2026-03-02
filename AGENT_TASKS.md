@@ -97,6 +97,7 @@ clawhub-lab/
 | 2026-03-02 | automation-workflows | [automation-workflows-skill-deep.md](skills-analysis/automation-workflows-skill-deep.md) | ✅ 深度分析（自动化工作流）⚠️ API 限制|
 | 2026-03-02 | secure-api-calls | [secure-api-calls-skill-deep.md](skills-analysis/secure-api-calls-skill-deep.md) | ✅ 深度分析（Keychains 凭证代理）|
 | 2026-03-02 | security-auditor | [security-auditor-skill-deep.md](skills-analysis/security-auditor-skill-deep.md) | ✅ 深度分析（OWASP Top 10 安全审计）|
+| 2026-03-02 | database-operations | [database-operations-skill-deep.md](skills-analysis/database-operations-skill-deep.md) | ✅ 深度分析（PostgreSQL 数据库专家）|
 
 ## 待探索的 Skills
 
@@ -263,6 +264,7 @@ clawhub-lab/
 - [ ] ai-notes-of-video (3.702) - AI 视频笔记 ⭐ 最高评分 ⚠️ 待安装
 - [ ] web-deploy-github (3.676) - GitHub Pages 部署 ⚠️ VirusTotal 警告 + API 限制
 - [ ] web-deploy (3.643) - Web 部署 ⭐ 新发现 ⚠️ 待安装
+- [x] ~~database-operations~~ (3.508) - 数据库操作 ✅ 已安装并分析
 - [ ] productivity (3.559) - 生产力工具集 ⚠️ 待安装
 - [ ] monitoring (3.537) - 系统监控 ⚠️ 待安装
 
@@ -332,3 +334,6 @@ clawhub-lab/
 | 2026-03-02 19:32 | 搜索 ai-notes-of-video/web-deploy/productivity | ✅ 发现 3 个高评分 Skills (3.702, 3.676, 3.643, 3.559) |
 | 2026-03-02 19:32 | 安装 ai-notes-of-video/web-deploy/productivity | ❌ API 速率限制（所有请求被拒绝）|
 | 2026-03-02 19:32 | 创建状态报告 | ✅ api-limit-status-2026-03-02-19-32.md（API 限制分析 + Skills 推测）|
+| 2026-03-02 20:04 | 搜索 ai-notes-of-video/web-deploy/database | ✅ 发现 database-operations 可安装 |
+| 2026-03-02 20:04 | 安装 database-operations (3.508) | ✅ 成功安装 |
+| 2026-03-02 20:04 | 创建分析报告 | ✅ database-operations-skill-deep.md（PostgreSQL 数据库专家）|
