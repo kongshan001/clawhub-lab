@@ -92,6 +92,7 @@ clawhub-lab/
 | 2026-03-02 | gog | [gog-skill-deep.md](skills-analysis/gog-skill-deep.md) | ✅ 深度分析（Google Workspace CLI）|
 | 2026-03-02 | 批量 14 Skills | [batch-14-skills-deep.md](skills-analysis/batch-14-skills-deep.md) | ✅ 深度分析（bear-notes, blogwatcher, blucli, camsnap, eightctl, gifgrep, nano-pdf, openhue, ordercli, peekaboo, sag, songsee, wacli, xurl）|
 | 2026-03-02 | 剩余 3 Skills | [remaining-3-skills-deep.md](skills-analysis/remaining-3-skills-deep.md) | ✅ 深度分析（clawhub, goplaces, sonoscli）|
+| 2026-03-02 | image-generation | [image-generation-skill-deep.md](skills-analysis/image-generation-skill-deep.md) | ✅ 深度分析（多平台图像生成指南）|
 
 ## 待探索的 Skills
 
@@ -110,6 +111,7 @@ clawhub-lab/
 - [x] ~~data-analyst~~ - 数据分析 ✅
 - [x] ~~openclaw-github-assistant~~ - GitHub 助手 ✅
 - [x] ~~antigravity-image-gen~~ (3.567) - AI 图像生成 ✅（基于源码分析）
+- [x] ~~image-generation~~ (3.602) - AI 图像生成综合指南 ✅
 
 ### 中优先级（评分 3.0-3.5）
 
@@ -197,6 +199,6 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 11:03 by Glint 🔺*
+*最后更新: 2026-03-02 11:13 by Glint 🔺*
 
 **🎉 内置 Skills 分析 100% 完成！**
