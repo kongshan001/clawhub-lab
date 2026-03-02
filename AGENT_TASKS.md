@@ -80,6 +80,7 @@ clawhub-lab/
 | 2026-03-02 | things-mac | [things-mac-skill-deep.md](skills-analysis/things-mac-skill-deep.md) | ✅ 深度分析（Things 3 任务管理）|
 | 2026-03-02 | trello | [trello-skill-deep.md](skills-analysis/trello-skill-deep.md) | ✅ 深度分析（Trello 看板管理）|
 | 2026-03-02 | imsg | [imsg-skill-deep.md](skills-analysis/imsg-skill-deep.md) | ✅ 深度分析（iMessage/SMS macOS）|
+| 2026-03-02 | antigravity-image-gen | [antigravity-image-gen-skill-deep.md](skills-analysis/antigravity-image-gen-skill-deep.md) | ✅ 深度分析（零成本 AI 图像生成）⚠️ 源码分析|
 
 ## 待探索的 Skills
 
@@ -97,7 +98,7 @@ clawhub-lab/
 - [x] ~~openai-image-gen~~ - AI 图像生成（内置）✅
 - [x] ~~data-analyst~~ - 数据分析 ✅
 - [x] ~~openclaw-github-assistant~~ - GitHub 助手 ✅
-- [ ] antigravity-image-gen (3.567) - AI 图像生成（⚠️ 速率限制）
+- [x] ~~antigravity-image-gen~~ (3.567) - AI 图像生成 ✅（基于源码分析）
 
 ### 中优先级（评分 3.0-3.5）
 
@@ -150,4 +151,4 @@ clawhub-lab/
 
 ---
 
-*最后更新: 2026-03-02 09:15 by Glint 🔺*
+*最后更新: 2026-03-02 09:22 by Glint 🔺*
